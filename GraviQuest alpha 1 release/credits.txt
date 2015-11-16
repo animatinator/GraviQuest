@@ -1,0 +1,38 @@
+[XL]GraviQuest
+[LARGE]Alpha release 1
+
+
+[LARGE]Concept, Project Leader
+[LARGE]and
+[LARGE]Lead Programmer
+[MEDIUM][D]
+
+[LARGE]Level Design
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Graphics
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Character design and animation
+[SMALL][D], with the use of Pivot Stickfigure Animator :P
+
+[LARGE]Music and sound design
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Testing
+[SMALL]Calum Barker
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Special thanks
+[SMALL]The PyGame community
+[SMALL]Whoever made this nifty font
+
+
+
+
+
+[LARGE]Thanks for playing!

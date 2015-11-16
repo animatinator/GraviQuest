@@ -1,0 +1,11 @@
+Entry-Welcome to the GraviQuest tutorial! To move your character, use the left and right arrow keys. This is one of several handy pop-up messages which will guide you through the level. When you have finished reading, click anywhere to continue.
+
+1-Use the up arrow key to jump. You can control your path through the air using the left and right arrow keys (just like real life).
+
+2-That jazzy blue block to your right is a type of 'spin block'. These are used to rotate gravity, which you will need to do in order to progress through levels. This particular block is used to rotate gravity anticlockwise (so be prepared to fly off to the right!). A headbutt is the generally accepted means of activation.
+
+3-Aren't absurd platformer physics great? The green block just below (or to your left...) is the other type of spin block, and rotates gravity clockwise.
+
+4-Nearly there now! That portal to your left is the level exit; go through it to complete this tutorial.
+
+Finish-Congratulations, you've reached the level's goal!

@@ -1,0 +1,43 @@
+[XL]GraviQuest
+[LARGE]A PyGame adventure
+
+
+[LARGE]Concept, Project Leader
+[LARGE]and
+[LARGE]Lead Programmer
+[MEDIUM][D]
+
+[LARGE]Level Design
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Graphics
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Character design and animation
+[SMALL][D], with the use of Pivot Stickfigure Animator :P
+
+[LARGE]Music and sound design
+[SMALL][D]
+[SMALL][J]
+
+[LARGE]Testing
+[SMALL]Billybob
+[SMALL]Bob Bobertson
+[SMALL]Calum Barker
+[SMALL][D]
+[SMALL][J]
+[SMALL]Timmy McGhee
+[SMALL]The Cheezy Peas Guy
+[SMALL]Lolasaurus
+[MEDIUM]Note: some of the above names may be imaginary
+
+[LARGE]Special thanks
+[SMALL]Various people
+
+
+
+
+
+[LARGE]Thanks for playing!
