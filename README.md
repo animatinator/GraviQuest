@@ -1,3 +1,5 @@
+![GraviQuest screenshot](http://www.pygame.org/shots/1098.jpg)
+
 # About
 
 GraviQuest is a platformer/puzzle game in which the objective in each level is, unsurprisingly, to reach the goal. However, this task is made slightly more complicated by the fact that it will often be necessary to 'rotate' gravity in order to reach said goal.
